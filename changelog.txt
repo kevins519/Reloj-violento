@@ -1,0 +1,1 @@
+Se acomodó el diseño de la interfaz para permitir Mostrar el botón de guardar configuraciones que se ocultaba en otros dispositivos como Samsung
