@@ -1,1 +1,1 @@
-Se acomodó el diseño de la interfaz para permitir Mostrar el botón de guardar configuraciones que se ocultaba en otros dispositivos como Samsung
+Se corrigió una lógica dentro del código para evitar que el reloj repita dos o más veces la misma hora 
